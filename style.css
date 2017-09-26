@@ -1,0 +1,19 @@
+/*
+Theme Name: Twenty Seventeen Infinite Scroll Child
+Author: Imran Sayed
+Author URI: https://wordpress.org/
+Template: Twentyseventeen
+Description: Demo Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twenty-seventeen-infinite-scroll-child
+*/
+@import url( '../twentyseventeen/style.css' );
+
+.ajax-loader {
+	display: none;
+	text-align: center;
+	margin: 0 auto;
+	/*margin-left: 400px;*/
+}
